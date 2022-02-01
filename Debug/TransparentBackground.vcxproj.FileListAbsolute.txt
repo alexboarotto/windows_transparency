@@ -1,0 +1,2 @@
+C:\Users\Megaport\source\repos\TransparentBackground\Debug\TransparentBackground.exe
+C:\Users\Megaport\source\repos\TransparentBackground\Debug\TransparentBackground.pdb
